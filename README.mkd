@@ -1,20 +1,27 @@
-[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=55dd277abbda430100397040&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/55dd277abbda430100397040/build/latest)
+## FlappySwift
 
-# FlappySwift
+An implementation of Flappy Bird and Face Detection in Swift for iOS 11.
 
-An implementation of Flappy Bird in Swift for iOS 8.
+![FlappySwift](FlappySwift.png)
 
-![FlappySwift](http://i.imgur.com/1NLoToU.gif)
+[B站视频](https://www.bilibili.com/video/av96310774/)
 
-# Notes
+## Face Detection
 
-We're launching a course [Game Programming with Swift](https://fullstackedu.com)
+[Face Detection Tutorial Using the Vision Framework for iOS](https://www.raywenderlich.com/1163620-face-detection-tutorial-using-the-vision-framework-for-ios)
 
-If you are interested in early access to the course, head to [fullstackedu.com](https://www.fullstackedu.com) and _enter in your email in the signup box at the bottom of the page_ to be notified of updates on the course itself.
+## FlappyBird
 
-# Authors
+[FlappySwift](https://github.com/fullstackio/FlappySwift)
 
-- Nate Murray - [@eigenjoy](https://twitter.com/eigenjoy)
-- Ari Lerner - [@auser](https://twitter.com/auser)
-- Based on code by [Matthias Gall](http://digitalbreed.com/2014/how-to-build-a-game-like-flappy-bird-with-xcode-and-sprite-kit)
+## GitHub
 
+<https://github.com/iOSDevLog/FlappySwift>
+
+## Authors
+
+- iOSDevLog - [@iOSDevLog](https://2020.iosdevlog.com)
+
+# License
+
+FlappySwift is released under the MIT license. See [LICENSE](LICENSE) for details.
